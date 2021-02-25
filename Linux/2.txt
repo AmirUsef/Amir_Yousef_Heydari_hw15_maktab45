@@ -1,0 +1,5 @@
+su ali
+cd ../ali
+touch tst.sh
+nano tst.sh (we write 'echo "Hello Linux"' in file)
+chmod 744 tst.sh

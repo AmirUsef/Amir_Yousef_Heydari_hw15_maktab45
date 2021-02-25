@@ -1,0 +1,6 @@
+uname -r
+(output : 5.8.0-41-generic)
+
+sudo apt search linux-headers
+
+sudo apt install linux-headers-5.8.0-41-generic
